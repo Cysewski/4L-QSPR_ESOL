@@ -1,4 +1,5 @@
 # Layer 3 — DOOIT2 Nested Optimization and Final ESOL Results
+(Dual Objectives Optimization with iterative Feature Pruning), 
 
 This directory contains the principal outputs from **Layer 3 (L3)** of the 4L-QSPR workflow.
 
