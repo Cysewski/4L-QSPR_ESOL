@@ -144,7 +144,8 @@ Citation
 When using the curated molecular universe, L1 implementation, or generated group assignments, please cite the associated manuscript:
 P. Cysewski,
 Chemically Informed and Leakage-Aware QSPR Modeling: The 4L-QSPR Framework Applied to Aqueous Solubility Prediction
-Full bibliographic details will be added after publication.
+(submitted). Full bibliographic details will be added after publication.
+
 Contact
 Piotr Cysewski
 Department of Physical Chemistry
