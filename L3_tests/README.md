@@ -25,19 +25,6 @@ fig1_summary.png
 
 generated for the respective synthetic test.
 
-For repository clarity, the files were renamed according to the test number:
-
-```text
-fig1_summary.png from Test 1 → test1_summary.png
-fig1_summary.png from Test 2 → test2_summary.png
-fig1_summary.png from Test 3 → test3_summary.png
-fig1_summary.png from Test 4 → test4_summary.png
-fig1_summary.png from Test 5 → test5_summary.png
-fig1_summary.png from Test 6 → test6_summary.png
-```
-
-The renaming changes only the file names. The figure content is unchanged.
-
 ## Synthetic validation tests
 
 ### Test 1 — Baseline linear signal
