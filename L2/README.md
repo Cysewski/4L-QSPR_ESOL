@@ -9,16 +9,16 @@ L2 is the supervised descriptor-processing layer. It operates after the endpoint
 The directory contains three LightGBM input workbooks corresponding to three descriptor representations:
 
 ```text
-L3_COSMO_lgbm.xlsx
-L3_COSMOPaDEL_lgbm.xlsx
-L3_PaDEL_lgbm.xlsx
+L2_COSMO_lgbm.xlsx
+L2_COSMOPaDEL_lgbm.xlsx
+L2_PaDEL_lgbm.xlsx
 ````
 
 These files contain the curated ESOL records together with the molecular identifiers, target values, L1 grouping assignments, and L2-retained descriptor subsets required for L3 modeling.
 
 ## Descriptor spaces
 
-### `L3_COSMO_lgbm.xlsx`
+### `L2_COSMO_lgbm.xlsx`
 
 This workbook contains descriptors derived from COSMO-RS-related calculations.
 
@@ -49,7 +49,7 @@ DeltaLn_activity_water_minus_hexane
 
 The target `logS` values were not used during conformer generation, quantum-chemical calculations, COSMOtherm calculations, or extraction of the original COSMO-derived descriptors.
 
-### `L3_PaDEL_lgbm.xlsx`
+### `L2_PaDEL_lgbm.xlsx`
 
 This workbook contains conventional two-dimensional molecular descriptors calculated using PaDEL-Descriptor.
 
@@ -78,7 +78,7 @@ SpMax4_Bhm
 SpMin4_Bhs
 ```
 
-### `L3_COSMOPaDEL_lgbm.xlsx`
+### `L2_COSMOPaDEL_lgbm.xlsx`
 
 This workbook contains the combined COSMO–PaDEL descriptor representation.
 
